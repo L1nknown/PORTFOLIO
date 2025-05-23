@@ -1,13 +1,16 @@
-# My Portfolio
+# My Portfolio Website
 
-This is my personal portfolio website built with HTML and CSS. It showcases my projects and contact information.
+A simple and responsive personal portfolio site built with HTML and CSS. Hosted using GitHub Pages.
 
-## 🚀 Live Site
-Coming soon via GitHub Pages.
+## Features
+- Responsive layout
+- Clean, modern design
+- Easy to customize
 
-## 🛠️ Built With
-- HTML
-- CSS
+## Live Demo
+[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
 
-## 📫 Contact
-you@example.com
+## How to Use
+1. Clone or fork the repo.
+2. Replace text and project links with your own.
+3. Push changes to GitHub and enable GitHub Pages in repo settings.
